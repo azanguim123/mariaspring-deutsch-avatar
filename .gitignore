@@ -1,0 +1,17 @@
+# Environnement virtuel et secrets
+.venv/
+venv/
+.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Données temporaires / audio généré
+*.wav
+*.mp3
+*.log
+.pytest_cache/
+
+# Fichiers système OS
+.DS_Store
+Thumbs.db
