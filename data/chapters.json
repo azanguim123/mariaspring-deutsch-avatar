@@ -1,0 +1,46 @@
+{
+  "chapters": [
+    {
+      "id": "a1_beim_arzt",
+      "level": "A1",
+      "title": "Beim Arzt (Chez le médecin)",
+      "objectives": [
+        "Dire où l'on a mal (Körperteile + wehtun)",
+        "Décrire des symptômes simples",
+        "Comprendre des questions simples du médecin"
+      ],
+      "vocabulary": [
+        "der Kopf",
+        "die Kopfschmerzen",
+        "das Fieber",
+        "der Husten",
+        "wehtun",
+        "seit zwei Tagen"
+      ],
+      "grammar_focus": [
+        "Verbe 'wehtun' au datif (Mir tut der Kopf weh)",
+        "Questions fermées et ouvertes au présent"
+      ],
+      "photos": [
+        {
+          "id": "photo_01",
+          "url": "/assets/chapters/a1/arzt_wartezimmer.jpg",
+          "description": "Une patiente assise dans une salle d'attente avec une main sur le front, l'air fatigué.",
+          "prompt_questions": [
+            "Was hat die Frau?",
+            "Wo ist sie?"
+          ]
+        },
+        {
+          "id": "photo_02",
+          "url": "/assets/chapters/a1/arzt_praxis.jpg",
+          "description": "Un médecin parle avec un patient dans son cabinet médical ; un stéthoscope est posé sur le bureau.",
+          "prompt_questions": [
+            "Wer ist das?",
+            "Was fragt der Arzt vielleicht?"
+          ]
+        }
+      ]
+    }
+  ]
+}

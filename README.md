@@ -34,6 +34,7 @@ mariaspring-deutsch-avatar/
 └── tests/
     └── test_prompt_builder.py    # Tests unitaires
 
+```  
 1. Installation de l'environnement
 Cloner le dépôt et entrer dans le dossier : git clone <URL_DU_DEPOT>
 cd mariaspring-deutsch-avatar
@@ -52,7 +53,7 @@ copy .env.example .env
 Feuille de route de développement
     [x] Étape 1 : Modélisation des données par chapitre (chapters.json) et génération dynamique du prompt système (src/prompt_builder.py).
 
-    [ ] Étape 2 : Moteur de dialogue oral en allemand (STT -> LLM -> TTS).
+    [x] Étape 2 : Moteur de dialogue oral en allemand (STT -> LLM -> TTS).
 
     [ ] Étape 3 : Intégration de l'avatar et synchronisation/réactivité.
 
