@@ -1,0 +1,7 @@
+python-dotenv
+pytest
+requests
+faster-whisper
+edge-tts
+sounddevice
+scipy
